@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <h1>welcome to home page</h1>
+      <h1>react imp components</h1>
     </>
   );
 }
